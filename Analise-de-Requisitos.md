@@ -5,9 +5,8 @@
 
 Tem se tornado cada vez maior a busca por alimentação saudável. Alimentos com baixo teor calórico, sem glúten ou sem lactose. Pensando nesse público, e na tentativa de influenciar cada vez mais pessoas a se alimentarem de forma saudável, está loja se destina a fornecem diversas iguarias que se adequam à vida saudável.
 
-Dentre nossos produtos, encontram-se óleos de coco, barras de cereal ou de frutas, doces sem lactoses e temperos sem adição desal ou produtos inorgânicos. 
+Dentre nossos produtos, encontram-se óleos de coco, óleos de abacate, barras de cereal ou de frutas, doces sem lactoses e temperos sem adição desal ou produtos inorgânicos. Além disso, nosso site contará com dicas de como incluir alimentos saudáveis à rotina diária, e quais os benefícios que estes alimentos trazem para anossa saúde. Como substituir alimentos gordurosos e calóricos por alimentos mais saudáveis e muitas outras dicas.
 
-Nosso foco é atender ao público que deseja manter uma dieta alimentar saudável. E incentivar a transformação dos hábitos alimentares de cada vez mais pessoas. Nosso site conta também com uma aba de dicas de alimentação saudável.
 
 
 ### 2. Casos de Uso
@@ -195,12 +194,21 @@ Escopo:
 Nível: Administrador ou Clientes
 Atores primários: Administrador, Clientes
 Interessados: Administrador: Visualizar todas as opções de produtos oferecidos para venda.
-Cliente: Visualizar dicas de alimentação saudável. Substituição de alimentos gordurosos ou calóricos por alimentos mais saudáveis.
+Cliente: Visualizar dicas de como se alimentar de forma saudável. Como substituir alimentos gordurosos ou calóricos por alimentos mais saudáveis. Quais os benefícios que cada um desses alimentos pode trazer. e muitas outras dicas
 Cenário de sucesso principal:
 1. Usuário acessa a página web;
 2. Usuário realiza processo autenticação;
 3. Usuário seleciona o link Dicas;
 4. A lista de dicas é exibida com opções de botões para compra;
+
+
+3. Objetivo
+
+Fornecer aos clientes de forma prática e no conforto de suas casas, produtos orgânicos e saudáveis. Produtos livres de glúten, lactose, componentes inorgânicos e demasiada quantidade de sódio. Além disso, buscaremos fornecer dicas de como se alimentar de forma saudável, como incluir tais alimentos na rotina alimentar, e como substituir alimentos gordurosos e calóricos por alimentos saudáveis. 
+Nosso foco é atender ao público que deseja manter uma dieta alimentar saudável. E incentivar a transformação dos hábitos alimentares de cada vez mais pessoas. Nosso site conta também com uma aba de dicas de alimentação saudável.
+
+
+
 
 
 
