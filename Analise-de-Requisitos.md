@@ -2,7 +2,13 @@
 ## Análise de Requisitos
 
 ### 1. Introdução
-Teste
+
+Tem se tornado cada vez maior a busca por alimentação saudável. Alimentos com baixo teor calórico, sem glúten ou sem lactose. Pensando nesse público, e na tentativa de influenciar cada vez mais pessoas a se alimentarem de forma saudável, está loja se destina a fornecem diversas iguarias que se adequam à vida saudável.
+
+Dentre nossos produtos, encontram-se óleos de coco, barras de cereal ou de frutas, doces sem lactoses e temperos sem adição desal ou produtos inorgânicos. 
+
+Nosso foco é atender ao público que deseja manter uma dieta alimentar saudável. E incentivar a transformação dos hábitos alimentares de cada vez mais pessoas. Nosso site conta também com uma aba de dicas de alimentação saudável.
+
 
 ### 2. Casos de Uso
 
